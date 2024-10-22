@@ -11,7 +11,7 @@ to expose an endpoint to the Internet.
 ## Features
 
 - **Webhook Proxy**: Acts as a proxy for incoming webhooks from Baseten async.
-- **HTTP Streaming**: Exposes an endpoint for HTTP streaming that the Flow Judge Python client can connect to.
+- **HTTP Streaming**: Exposes an endpoint for HTTP streaming that the [flow-judge](https://github.com/flowaicom/flow-judge) Python client can connect to.
 
 ## Installation
 

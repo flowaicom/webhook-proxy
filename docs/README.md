@@ -130,7 +130,6 @@ curl -XPOST localhost:8000/webhook \
 
 - **Response status code:** `400`
 - **Response body:** ```bad request```
--
 
 ### Error – invalid or malformed request body, missing required `request_id` field
 
